@@ -5,3 +5,4 @@ Lista de Pull Request
 <h1> Fernandinha </h1>
 <h1> Maikon Icaro</h1>
 <h1> Edson </h1>
+<h1> Gabrielle </h1>
